@@ -5,7 +5,7 @@
 - <b>Microsoft Azure Sentinel (SIEM)</b>
   - [Microsoft Azure Sentinel SIEM](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Malware Analysis(Static and Dynamic Analysis Report on Zeus Banking Trojan)</b>
-  - [Malware Analysis](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(PDF Document)</b></i>
+  - [Malware Analysis](https://github.com/users/jon9792/projects/2) <b><i>(PDF Document)</b></i>
 
 
 <h2> 🤳 Connect with me:</h2>
