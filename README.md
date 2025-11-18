@@ -1,4 +1,4 @@
-<h1>Hi, I'm Jon! <br/><a href="https://github.com/joshmadakor1"></a> <a href="https://www.linkedin.com/in/jonathan-barnes-a15b852a1/">Cyber Security Student</a>
+<h1>Hi, I'm Jon! <br/><a href="https://github.com/joshmadakor1"></a> <a href="https://www.linkedin.com/in/jonathan-barnes-a15b852a1/">Cyber Security Professional</a>
 
  <h2>👨‍💻 Cyber Security Projects:</h2>
 
